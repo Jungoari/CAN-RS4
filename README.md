@@ -45,6 +45,17 @@ DJI사의 RS4 짐벌을 CAN 통신을 통해 제어하는 프로젝트입니다.
 
 ---
 
+## 실행 방법
+
+1. CAN Adapter를 Linux에 연결 후 `lsusb`로 연결 확인
+2. `sudo ip link set can0 up type can bitrate 1000000` , 1Mbps로 CAN Adapter 활성화
+3. `python3 CAN_Send.py` , 코드 실행
+
+
+
+
+---
+
 ## 기술 스택
 
 - **Physical Layer**: CANable Nano, 120Ω 종단저항
