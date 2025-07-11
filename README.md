@@ -49,7 +49,7 @@ DJI사의 RS4 짐벌을 CAN 통신을 통해 제어하는 프로젝트입니다.
 
 <img src="./3d_Prints/Custom_Connector.png" width="500"/>
 3D 프린팅 모델, 출력 후 부착 (Pogo Pin을 사용하였음)
-<img src="./3d_Prints/Connected.png" width="500"/>
+<img src="./images/Connected.png" width="500"/>
 
 ---
 ## 실행 방법
