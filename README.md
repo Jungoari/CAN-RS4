@@ -39,12 +39,19 @@ DJI사의 RS4 짐벌을 CAN 통신을 통해 제어하는 프로젝트입니다.
 |--------------------------|-----------------------------------|
 | USB-CAN Adapter          | **CANable Nano v1.0**             |
 | 종단 저항                | 120Ω 2개                          |
-| 짐벌 연결용 커넥터       | **커넥터 직접 제작 필요, 상단에 자작 커넥터 구성도 기술** |
+| 짐벌 연결용 커넥터       | **커넥터 직접 제작 필요, 하단에 자작 커넥터 연결 모습** |
 | 케이블 연결              | 공통 GND, CAN_H, CAN_L                 |
 | OS                       | Linux (Ubuntu 등)                 |
 
 ---
 
+## 자작 커넥터
+
+<img src="./3d_Prints/Custom_Connector.png" width="500"/>
+3D 프린팅 모델, 출력 후 부착 (Pogo Pin을 사용하였음)
+<img src="./3d_Prints/Connected.png" width="500"/>
+
+---
 ## 실행 방법
 
 1. CAN Adapter를 Linux에 연결 후 `lsusb`로 연결 확인
