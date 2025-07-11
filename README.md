@@ -20,7 +20,7 @@ DJI사의 RS4 짐벌을 CAN 통신을 통해 제어하는 프로젝트입니다.
 
 ## CAN 프로토콜 형식
 
-![프로토콜 형식](./images/CAN_Protocol.png)
+<img src="./images/CAN_Protocol.png" width="500"/>
 
 | 항목               | 값                           |
 |--------------------|------------------------------|
