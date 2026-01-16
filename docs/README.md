@@ -7,6 +7,10 @@ This project enables CAN-based control of the DJI RS4 gimbal.
 It uses Python scripts and a SocketCAN environment to communicate with the gimbal.
 
 ---
+## Demo
+![Demo](images/Demo_Video.gif)
+
+---
 
 ## Project Overview
 
