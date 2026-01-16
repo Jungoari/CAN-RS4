@@ -20,7 +20,7 @@ DJI사의 RS4 짐벌을 CAN 통신을 통해 제어하는 프로젝트입니다.
 
 ## CAN 프로토콜 형식
 
-<img src="./images/CAN_Protocol.png" width="500"/>
+<img src="../images/CAN_Protocol.png" width="500"/>
 
 | 항목               | 값                           |
 |--------------------|------------------------------|
@@ -33,7 +33,7 @@ DJI사의 RS4 짐벌을 CAN 통신을 통해 제어하는 프로젝트입니다.
 
 ## 하드웨어 구성
 
-<img src="./images/HW_Config.png" width="500"/>
+<img src="../images/HW_Config.png" width="500"/>
 
 | 구성 요소                 | 설명                              |
 |--------------------------|-----------------------------------|
@@ -47,9 +47,9 @@ DJI사의 RS4 짐벌을 CAN 통신을 통해 제어하는 프로젝트입니다.
 
 ## 자작 커넥터
 
-<img src="./3d_Prints/Custom_Connector.png" width="500"/>
+<img src="../3D_Prints_Parts/Custom_Connector.png" width="500"/>
 3D 프린팅 모델, 출력 후 부착 (Pogo Pin을 사용하였음)
-<img src="./images/Connected.png" width="500"/>
+<img src="../images/Connected.png" width="500"/>
 
 ---
 ## 실행 방법
