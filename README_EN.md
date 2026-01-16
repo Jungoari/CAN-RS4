@@ -8,7 +8,7 @@ It uses Python scripts and a SocketCAN environment to communicate with the gimba
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 - Controls the DJI RS4 gimbal using CAN communication  
 - Analyzes the Lua script used in Mission Planner:  
@@ -18,7 +18,7 @@ It uses Python scripts and a SocketCAN environment to communicate with the gimba
 
 ---
 
-## 🧾 CAN Protocol Format
+## CAN Protocol Format
 
 <img src="./images/CAN_Protocol.png" width="500"/>
 
@@ -31,7 +31,7 @@ It uses Python scripts and a SocketCAN environment to communicate with the gimba
 
 ---
 
-## 🔧 Hardware Configuration
+## Hardware Configuration
 
 <img src="./images/HW_Config.png" width="500"/>
 
@@ -45,7 +45,7 @@ It uses Python scripts and a SocketCAN environment to communicate with the gimba
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Connect the CAN adapter to the Linux system and check connection using `lsusb`
 2. Enable CAN interface at 1 Mbps:
@@ -59,7 +59,7 @@ It uses Python scripts and a SocketCAN environment to communicate with the gimba
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
 - **Physical Layer**: CANable Nano, 120Ω termination resistors  
 - **Kernel Layer**: SocketCAN (native Linux CAN interface)  
@@ -68,7 +68,7 @@ It uses Python scripts and a SocketCAN environment to communicate with the gimba
 
 ---
 
-## 🙋 Q&A
+## Q&A
 
 For questions or technical inquiries, please contact:
 
@@ -76,7 +76,7 @@ For questions or technical inquiries, please contact:
 
 ---
 
-## 📄 License
+## License
 
 This project is based on code licensed under the MIT License.
 
