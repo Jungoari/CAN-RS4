@@ -8,7 +8,7 @@ It uses Python scripts and a SocketCAN environment to communicate with the gimba
 
 ---
 ## Demo
-![Demo](images/Demo_Video.gif)
+![Demo](../images/Demo_Video.gif)
 
 ---
 
