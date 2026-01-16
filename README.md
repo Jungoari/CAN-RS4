@@ -8,7 +8,7 @@ It uses Python scripts and a SocketCAN environment to communicate with the gimba
 
 ---
 ## Demo
-![Demo](../images/Demo_Video.gif)
+![Demo](./images/Demo_Video.gif)
 
 ---
 
@@ -24,7 +24,7 @@ It uses Python scripts and a SocketCAN environment to communicate with the gimba
 
 ## CAN Protocol Format
 
-<img src="../images/CAN_Protocol.png" width="500"/>
+<img src="./images/CAN_Protocol.png" width="500"/>
 
 | Item                  | Value                            |
 |-----------------------|----------------------------------|
@@ -37,7 +37,7 @@ It uses Python scripts and a SocketCAN environment to communicate with the gimba
 
 ## Hardware Configuration
 
-<img src="../images/HW_Config.png" width="500"/>
+<img src="./images/HW_Config.png" width="500"/>
 
 | Component                 | Description                                                        |
 |--------------------------|--------------------------------------------------------------------|
